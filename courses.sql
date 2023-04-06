@@ -15,4 +15,8 @@ CourseName,CourseFee,CourseDurationYears
 insert into courses (
 CourseName,CourseFee,CourseDurationYears
 ) values ("PHD","one Thousand",5);
+insert into courses (
+CourseName,CourseFee,CourseDurationYears
+) values ("Vlda","Five Thousand",2);
+
 SELECT * FROM shashwatt.courses;
